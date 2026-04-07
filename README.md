@@ -14,6 +14,7 @@ Technologies Used:
 - PyQt6
 - Hashlib
 - Multithreading
+  
 ---
 Project Structure:
 Automated_Duplicate File Finder/
@@ -21,18 +22,19 @@ Automated_Duplicate File Finder/
 - chatbot.py
 - venv/
 - pycache/
+  
 ---
 
 Installation:
-1.Clone the repository:
+1. Clone the repository:
 git clone https://github.com/aishwaryapujeri23-coder/Duplicate-File-Finder-using-Python-Automation.git
 cd duplicate-file-finder
-2.Create virtual environment:
+2. Create virtual environment:
 python -m venv venv
-3.Activate:
+3. Activate:
 Windows: venv\Scripts\activate  
 Linux/Mac: source venv/bin/activate
-4.Install dependencies:
+4. Install dependencies:
 pip install 
 
 ---

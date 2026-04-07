@@ -17,44 +17,45 @@ Technologies Used:
 ---
 Project Structure:
 Automated_Duplicate File Finder/
-│
-├── app.py
-├── chatbot.py
-├── venv/
-└── pycache/
+- app.py
+- chatbot.py
+- venv/
+- pycache/
 ---
 
-Installation:--
-Clone the repository:
+Installation:
+1.Clone the repository:
 git clone https://github.com/aishwaryapujeri23-coder/Duplicate-File-Finder-using-Python-Automation.git
 cd duplicate-file-finder
-Create virtual environment:
+2.Create virtual environment:
 python -m venv venv
-Activate:
+3.Activate:
 Windows: venv\Scripts\activate  
 Linux/Mac: source venv/bin/activate
-Install dependencies:
-pip install PyQt6
+4.Install dependencies:
+pip install 
+
 ---
-Run
+Run:
 python app.py
+
 ---
-How It Works
+How It Works:
 - Select folder
 - Scan files
 - Generate SHA-256 hashes
 - Identify duplicates
 - Display results
  --- 
-Chatbot
+Chatbot:
 - Answers duplicate-related queries
 - Provides insights
 ---  
-Safety
+Safety:
 - No automatic deletion
 - User-controlled actions
 --- 
-Future Enhancements
+Future Enhancements:
 - File preview
 - Cloud integration
 - Analytics dashboard
